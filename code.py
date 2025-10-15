@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
 """
-Human-friendly analysis of the ROBO-GAP dataset.
+Using ROBO-GAP dataset.
 
 This script reads the dataset and computes the distribution of perceived robot genders.
 It prints a summary and saves both a bar chart and a pie chart of the distribution.
 
-The colours used for the charts match those in the presentation: blue for masculine,
-grey for neutral and pink for feminine.
 """
 
 import pandas as pd
@@ -147,4 +145,5 @@ def main() -> None:
 
 
 if __name__ == '__main__':
+
     main()
