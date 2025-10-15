@@ -43,7 +43,8 @@ To run the analysis script, you’ll need:
 * Python 3.8 or later
 * [pandas](https://pandas.pydata.org/) and [matplotlib](https://matplotlib.org/)
 * The Dataset from (https://robo-gap.unisi.it/)
-Install the dependencies via pip:
+  
+* Install the dependencies via pip:
 
 ```bash
 pip install pandas matplotlib
